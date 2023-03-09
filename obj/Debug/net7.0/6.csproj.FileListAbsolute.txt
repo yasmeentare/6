@@ -1,0 +1,5 @@
+C:\Users\Yasmeen\Desktop\الفصل الاخير\asp.net\6\6\obj\Debug\net7.0\6.csproj.AssemblyReference.cache
+C:\Users\Yasmeen\Desktop\الفصل الاخير\asp.net\6\6\obj\Debug\net7.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmeen\Desktop\الفصل الاخير\asp.net\6\6\obj\Debug\net7.0\6.AssemblyInfoInputs.cache
+C:\Users\Yasmeen\Desktop\الفصل الاخير\asp.net\6\6\obj\Debug\net7.0\6.AssemblyInfo.cs
+C:\Users\Yasmeen\Desktop\الفصل الاخير\asp.net\6\6\obj\Debug\net7.0\6.csproj.CoreCompileInputs.cache
